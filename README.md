@@ -24,7 +24,7 @@ Para instalar a biblioteca **Axios**, basta ir no seu console e digitar **"npm i
 
 Para utilizar o codigo, basta digitar o CEP na função **cepCidade()** (Ex :cepCidade('20210900')), ir no console e utilizar **'node arquivo.js'** (Ex: node index.js), e ele informara o nome da cidade e estado (Ex: Rio de Janeiro - RJ).
 
-**Obs:** Certifique -se de que o CEP tem 9 digitos e sem o hífen, e de estar em formato de **string** (Ex: '20210900') caso contrario podem ocorrer erros.
+**Obs:** Certifique -se de que o CEP tem 8 digitos e sem o hífen, e de estar em formato de **string** (Ex: '20210900') caso contrario podem ocorrer erros.
 
 ### Exemplo de uso:
 
